@@ -10,7 +10,7 @@
  */
 
 short WHITE_LED_PIN=13;
-unsigned long long LED_INTERVAL=3000;
+unsigned long long LED_INTERVAL=300;
  
 void setup() {
   // put your setup code here, to run once:
